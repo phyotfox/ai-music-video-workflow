@@ -1,0 +1,6 @@
+leo_env.txt
+.leo_env
+*.env
+.DS_Store
+Icon?
+__pycache__/
